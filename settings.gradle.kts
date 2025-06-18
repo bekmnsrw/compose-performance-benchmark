@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Compose Performance Benchmark"
 include(":app")
+include(":benchmark")
